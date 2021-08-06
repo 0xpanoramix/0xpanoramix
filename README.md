@@ -28,3 +28,5 @@ Here are some ideas to get you started:
   - [Twitter](https://twitter.com/leptitluca)
 - ⚡ Fun fact:
   - I am not funny, so no fun facts here
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PtitLuca&show_icons=true)
