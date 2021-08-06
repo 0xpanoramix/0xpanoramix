@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **PtitLuca/PtitLuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :question: I'm a french software developer, passionate about web3 and innovation.
+- 🔭 I’m currently working at:
+  - [PoC Innovation](https://github.com/PoCInnovation)
+  - [Aleph.IM](https://github.com/aleph-im)
+- 🌱 I’m currently learning:
+  - graphQL
+  - gRPC
+  - Kafka
+- 📫 How to reach me:
+  - Email: luca.georges-francois@poc-innovation.fr
+  - [Twitter](https://twitter.com/leptitluca)
+- ⚡ Fun fact:
+  - I am not funny, so no fun facts here
