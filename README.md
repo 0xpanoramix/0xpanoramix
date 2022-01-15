@@ -21,9 +21,10 @@ Here are some ideas to get you started:
   - [Polygon](https://github.com/0xPolygon)
   - [Aleph.IM](https://github.com/aleph-im)
 - 🌱 I’m currently learning:
-  - graphQL
+  - Ethereum
   - gRPC
   - Kafka
+  - DeFi
 - 📫 How to reach me:
   - Email: luca.georges-francois@poc-innovation.fr
   - [Twitter](https://twitter.com/leptitluca)
