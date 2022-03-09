@@ -34,3 +34,4 @@ Here are some ideas to get you started:
   - I am not funny, so no fun facts here
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PtitLuca&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PtitLuca)
