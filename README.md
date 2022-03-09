@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - :question: I'm a french software developer, passionate about web3 and innovation.
 - 🔭 I’m currently working at:
   - [PoC Innovation](https://github.com/PoCInnovation)
+  - [SkillZ](https://github.com/skillz-blockchain)
+- 🤔 I've worked at:
   - [Polygon](https://github.com/0xPolygon)
   - [Aleph.IM](https://github.com/aleph-im)
 - 🌱 I’m currently learning:
