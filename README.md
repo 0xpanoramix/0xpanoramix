@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - Kafka
   - DeFi
 - 📫 How to reach me:
-  - Email: luca.georges-francois@poc-innovation.fr
+  - Email: luca@skillz.io
   - [Twitter](https://twitter.com/leptitluca)
 - ⚡ Fun fact:
   - I am not funny, so no fun facts here
