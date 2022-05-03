@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   - DeFi
 - 📫 How to reach me:
   - Email: luca@skillz.io
-  - [Twitter](https://twitter.com/leptitluca)
+  - [Twitter](https://twitter.com/0xpanoramix)
 - ⚡ Fun fact:
   - I am not funny, so no fun facts here
 
