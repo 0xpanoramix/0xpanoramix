@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :question: I'm a french software developer, passionate about web3 and innovation.
+- :question: I'm a french blockchain protocol developer, passionate about web3 and innovation.
 - 🔭 I’m currently working at:
   - [SkillZ](https://github.com/skillz-blockchain)
 - 🤔 I've worked at:
@@ -23,13 +23,14 @@ Here are some ideas to get you started:
   - [Polygon](https://github.com/0xPolygon)
   - [Aleph.IM](https://github.com/aleph-im)
 - 🌱 I’m currently learning:
-  - Ethereum
+  - Ethereum 2.0
   - DeFi
+  - Rollups
 - 📫 How to reach me:
   - Email: luca@skillz.io
   - [Twitter](https://twitter.com/0xpanoramix)
 - ⚡ Fun fact:
   - I am not funny, so no fun facts here
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PtitLuca&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PtitLuca)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xpanoramix&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xpanoramix)
