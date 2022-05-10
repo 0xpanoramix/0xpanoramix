@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - :question: I'm a french blockchain protocol developer, passionate about web3 and innovation.
 - 🔭 I’m currently working at:
-  - [SkillZ](https://github.com/skillz-blockchain)
+  - [Kiln](https://kiln.fi)
 - 🤔 I've worked at:
   - [PoC Innovation](https://github.com/PoCInnovation)
   - [Polygon](https://github.com/0xPolygon)
