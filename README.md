@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning:
   - Ethereum 2.0
   - DeFi
-  - Rollups
+  - L2 Rollups
 - 📫 How to reach me:
   - Email: luca.georges-francois@kiln.fi
   - [Twitter](https://twitter.com/0xpanoramix)
