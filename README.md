@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - DeFi
   - L2 Rollups
 - 📫 How to reach me:
-  - Email: luca.georges-francois@kiln.fi
+  - Email: luca@quartz.technology
   - [Twitter](https://twitter.com/0xpanoramix)
 - ⚡ Fun fact:
   - I am not funny, so no fun facts here
