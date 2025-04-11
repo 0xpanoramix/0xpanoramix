@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :question: I'm a french blockchain protocol developer, passionate about web3 and innovation.
+- :question: I'm a french smart contract protocol developer, passionate about tech and innovation.
 - 🔭 I’m currently working at:
   - [Kiln](https://kiln.fi)
   - [Quartz](https://github.com/quartz-technology)
