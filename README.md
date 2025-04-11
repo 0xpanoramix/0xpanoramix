@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 - :question: I'm a french blockchain protocol developer, passionate about web3 and innovation.
 - 🔭 I’m currently working at:
+  - [Kiln](https://kiln.fi)
   - [Quartz](https://github.com/quartz-technology)
 - 🤔 I've worked at:
-  - [Kiln](https://kiln.fi)
   - [PoC Innovation](https://github.com/PoCInnovation)
   - [Polygon](https://github.com/0xPolygon)
   - [Aleph.IM](https://github.com/aleph-im)
@@ -32,6 +32,3 @@ Here are some ideas to get you started:
   - [Twitter](https://twitter.com/0xpanoramix)
 - ⚡ Fun fact:
   - I am not funny, so no fun facts here
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xpanoramix&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xpanoramix)
